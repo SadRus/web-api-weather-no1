@@ -1,0 +1,6 @@
+capture_weather_data.md
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+step5.py
